@@ -1,3 +1,4 @@
-for (let i=0;i<3;i++){
-    console.log("Conexão feita com sucesso!",i);
-}
+
+    console.log("Conexão feita com sucesso!")
+    console.log("Conexão feita com sucesso!")
+    console.log("Conexão feita com sucesso!")
